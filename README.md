@@ -5,3 +5,4 @@
 ### 설치
 
 - flutter pub add http
+- flutter pub add url_launcher
